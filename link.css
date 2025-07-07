@@ -1,0 +1,21 @@
+/* link using css  */
+a:link{
+    color: red;
+
+}
+a:visited{
+    color: green;
+    
+}
+
+a:hover{
+    color: pink;
+    text-decoration: underline;
+    background-color: black;
+}
+
+a:active{
+    color: yellow;
+
+}
+

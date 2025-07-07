@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Box Sizing with External CSS</title>
+  <link rel="stylesheet" href="boxsizing.css"> <!-- Linking external CSS -->
+</head>
+<body>
+
+  <h2>Box Sizing: content-box vs border-box (External CSS)</h2>
+
+  <div class="container">
+    <div>
+      <div class="box content-box">
+        content-box<br>
+        (padding and border are added outside)
+      </div>
+      <div class="label">content-box</div>
+    </div>
+
+    <div>
+      <div class="box border-box">
+        border-box<br>
+        (padding and border are included)
+      </div>
+      <div class="label">border-box</div>
+    </div>
+  </div>
+
+</body>
+</html>

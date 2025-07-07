@@ -1,0 +1,10 @@
+/* background image  */
+
+body{
+     background-image: url('https://ts4.mm.bing.net/th?id=OIP.f1eE_Qgn9M9zCqnuZBo9-gHaEK&pid=15.1');
+       
+     
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: fixed;
+    }

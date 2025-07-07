@@ -1,0 +1,11 @@
+/* text font in css  */
+P{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-style: oblique;
+    font-style: italic;
+
+    font-size: 30px;
+    
+    
+}

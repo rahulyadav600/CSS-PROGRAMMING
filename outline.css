@@ -1,0 +1,8 @@
+/* applying outline using the css file  */
+
+h1{
+    outline-style: dotted;
+    border: 2px solid red;
+    outline-color: blue;
+
+}
